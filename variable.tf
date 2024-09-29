@@ -4,7 +4,7 @@ variable "cidr_block" {
 variable "project_name" {
       type = string
 }
-variable "enviornment" {
+variable "environment" {
       type = string
 }
 variable "enable_dns_hostnames" {
